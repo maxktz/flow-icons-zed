@@ -1,0 +1,7 @@
+id = "flow-icons"
+name = "Flow Icons"
+version = "1.0.0"
+schema_version = 1
+authors = ["thang-nm"]
+description = "Flow Icons for Zed"
+repository = "https://github.com/thang-nm/Flow-Icons"
